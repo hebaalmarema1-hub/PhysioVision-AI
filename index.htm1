@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
+
 <head>
     <meta charset="UTF-8">
     <title>PhysioVision AI – M² Edition</title>
@@ -7,12 +8,27 @@
 
 <body>
 
+    <img src="IMG_02802.PNG" alt="PhysioVision AI Logo" width="150">
+
     <h1>PhysioVision AI – M² Edition</h1>
 
+    <h2>
+        Transforming Movement into Measurable Recovery
+    </h2>
+
     <p>
-    منصة ذكية لتحليل الحركة ودعم التقييم والتأهيل الحركي
-    باستخدام تقنيات الذكاء الاصطناعي والرؤية الحاسوبية
+        منصة ذكية لتحليل الحركة ودعم التقييم والتأهيل الحركي
+        باستخدام تقنيات الذكاء الاصطناعي والرؤية الحاسوبية.
     </p>
 
+    <button>
+        دخول الأخصائي
+    </button>
+
+    <button>
+        إنشاء حساب
+    </button>
+
 </body>
+
 </html>
